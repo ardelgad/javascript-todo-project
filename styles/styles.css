@@ -123,6 +123,7 @@ a {
 
 .button:hover {
   background: #5f3a87;
+  cursor: pointer;
 }
 
 .button--secondary {
